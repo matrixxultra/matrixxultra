@@ -3,8 +3,8 @@
 <h6>Welcome To My Profile  Let'get Started</h6>
 
 <h3>About me</h3>
-🧙 Full Stack Web Developer Who Have Passion to Make Strong Projects. <br>
 <ul>
+  <li>🧙 Full Stack Web Developer Who Have Passion to Make Strong Projects</li>
   <li>💻 Code Addict</li>
   <li>☕ Coffee Addict</li>
   <li>🌱 I’m currently learning Next JS / Laravel</li>
