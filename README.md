@@ -1,38 +1,20 @@
 <h1>Hi There 👋, I'm Idriss AG </h1>
 <hr>
+<h6>Welcome To My Profile  Let'get Started</h6>
 
-<!--
-:👋 Hey there! I'm Ayman FAIK, The Full Stack Maestro 🚀
-Welcome to my digital playground where the magic of coding meets the art of creativity. 👨‍💻✨
+<h3>About me</h3>
+🧙 Full Stack Web Developer Who Have Passion to Make Strong Projects. <br>
+💻 Code Addicted <br>
+🧪 Testing, Debugging <br><br>
 
-About Me
-🧙‍♂️ Full Stack Developer with a passion for making the web a better place, one line of code at a time.
-💡 Turning caffeine into code since 2019.
-🌐 Creating amazing web experiences from front-end finesse to back-end brilliance.
-🎨 Crafting beautiful user interfaces with HTML, CSS, and JavaScript.
-💻 Navigating server-side sorcery with PHP and databases.
-🤖 Automating the mundane with Python.
-🧪 I'm all about testing, debugging, and perfecting my digital concoctions.
-My Portfolio
-🚀 Check out my portfolio to see some of my enchanting creations. Explore, get inspired, and maybe even have a chuckle or two!
+<h3>PortFolio</h3>
+<hr>
+<h4>🚀 SOON ....</h4>
+<br><br>
+<h4>🌐 Let's Connect</h4>
+<hr>
+<h6> 📫 Don't Hesistate to Send Message  and Collaborate with me on Great Projects</h6>
 
-Let's Connect
-📫 Collaborate with me on cool projects. Open for discussions and coding adventures.
-🧙‍♂️ Always up for a friendly code duel. Challenge me to a pull request wizardry!
-🌱 Learning something new every day because the tech world is like a never-ending quest.
-Reach Out
-Feel free to drop me a message. Let's embark on epic coding adventures together!
 
-🌟 May your bugs be easy to catch and your code always compile. Happy coding! 🌟
--->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
