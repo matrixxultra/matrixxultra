@@ -12,9 +12,8 @@
 </ul>
 <h3>PortFolio</h3>
 <hr>
-<h4>🚀 SOON ....</h4>
-<br><br>
-<h4>🌐 Let's Connect</h4>
+<h3>🚀 SOON ....</h3>
+<h4>🌐 Connect</h4>
 <hr>
 <h4> 📫 Don't Hesistate to Send Message  and Collaborate with me on Great Projects</h4>
 
