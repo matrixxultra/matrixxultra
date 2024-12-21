@@ -1,14 +1,5 @@
-
-
 <h1>Hi 👋, I'm Idriss AG</h1>
 <p>A passionate Full Stack developer from morocco</p>
-
-  <p>🧙 Full Stack Web Developer Who Have Passion to Make Strong Projects</p>
-  <p>💻 Code Addict</p>
-  <p>☕ Coffee Addict</p>
-  <p>🌱 I’m currently learning Next JS / Laravel</p>
-  <p>🧪 Problem Solver (testing, debugging ...)</p>
-
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -39,9 +30,9 @@
 <a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/@idriss_illumi" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=matrixxultra&show_icons=true&locale=en" alt="matrixxultra" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matrixxultra&" alt="matrixxultra" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matrixxultra&show_icons=true&locale=en&layout=compact" alt="matrixxultra" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrixxultra" alt="matrixxultra" /></a></p>
-
-
